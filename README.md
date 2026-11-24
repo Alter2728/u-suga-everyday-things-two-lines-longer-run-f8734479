@@ -1,8 +1,8 @@
 # Everyday Things, Two Lines, Longer Run
 
-[![make.fun](https://img.shields.io/badge/make.fun-bounty-blue)](https://make.fun/c/u-suga-everyday-things-two-lines-longer-run-f8734479)
-[![Python](https://img.shields.io/badge/python-3.x-green)](https://www.python.org/)
-[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](LICENSE)
+[![make.fun · u-suga-everyday-things-two-lines-longer-run-f8734479](https://make.fun/badge/u-suga-everyday-things-two-lines-longer-run-f8734479.svg)](https://make.fun/bounty/u-suga-everyday-things-two-lines-longer-run-f8734479?utm_source=github&utm_medium=readme&utm_campaign=u-suga-everyday-things-two-lines-longer-run-f8734479)
+[![rank](https://make.fun/badge/u-suga-everyday-things-two-lines-longer-run-f8734479/Alter2728/u-suga-everyday-things-two-lines-longer-run-f8734479/rank.svg)](https://make.fun/bounty/u-suga-everyday-things-two-lines-longer-run-f8734479/leaderboard?utm_source=github&utm_medium=readme&utm_campaign=u-suga-everyday-things-two-lines-longer-run-f8734479)
+[![reward](https://make.fun/badge/u-suga-everyday-things-two-lines-longer-run-f8734479/Alter2728/u-suga-everyday-things-two-lines-longer-run-f8734479/reward.svg)](https://make.fun/bounty/u-suga-everyday-things-two-lines-longer-run-f8734479?utm_source=github&utm_medium=readme&utm_campaign=u-suga-everyday-things-two-lines-longer-run-f8734479)
 
 Entry for the make.fun bounty
 [Everyday Things, Two Lines, Longer Run](https://make.fun/c/u-suga-everyday-things-two-lines-longer-run-f8734479)
